@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj",
+        "projectName": "DbUpDemo",
+        "projectPath": "E:\\Projects\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj",
+        "packagesPath": "C:\\Users\\boppu\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\DbUpDemo\\DbUpDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boppu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.7, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.7, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.7, )"
+            },
+            "dbup-core": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "dbup-sqlserver": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
