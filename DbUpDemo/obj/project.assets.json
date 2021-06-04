@@ -6264,19 +6264,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\boppu\\.nuget\\packages\\": {}
+    "C:\\Users\\SarathBoppudi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj",
+      "projectUniqueName": "D:\\GitHub\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj",
       "projectName": "DbUpDemo",
-      "projectPath": "E:\\Projects\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj",
-      "packagesPath": "C:\\Users\\boppu\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\DbUpDemo\\DbUpDemo\\obj\\",
+      "projectPath": "D:\\GitHub\\DbUpDemo\\DbUpDemo\\DbUpDemo.csproj",
+      "packagesPath": "C:\\Users\\SarathBoppudi\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\DbUpDemo\\DbUpDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\boppu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SarathBoppudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
